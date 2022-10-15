@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padi-dev-dangpm
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Exchange Protocol, Blockchain COre
+- 🌱 I’m currently learning Exchange Protocol, Blockchain Core
 - 💞️ I’m looking to collaborate on Solidity, ReactJs, ExpressJs, NextJs
 - 📫 How to reach me dangpm@gmail.com
 
