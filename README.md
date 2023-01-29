@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @padi-dev-dangpm
 - 👀 I’m currenly working as a Smart Contract Developer
-- 🌱 I have some standard knowledge in NFT and Defi fields(Sudoswap, Uniswap and DAO), I’m currently learning Blockchain Core, Golang
+- 🌱 I have some standard knowledge in NFT and Defi (Sudoswap, Uniswap and DAO). Besides, I’m currently learning Golang (for dive deeply into blockchain core) and Move (for develop smart contract on Sui chain)
 - 💞️ I’m looking to collaborate on Solidity, ReactJs, ExpressJs, NextJs
 - 📫 How to reach me dangpm@paditech.com
 
